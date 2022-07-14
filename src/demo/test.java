@@ -5,7 +5,7 @@ public class test {
 	 
  System.out.print("hi");
  int a=4;
- int b=5;
+ int b=3;
  int c=a+b;
  System.out.println("sum=" + c);
  }
